@@ -8,3 +8,8 @@ Structures like the Milky Way halo are made of smaller substructures. How much d
 * André Souto Campos
 * Anders Rehult
 * Sumedha Biswas
+
+## References list
+
+You might find it useful to add a list of references here. Add links like this:
+* [Steigman et al 2012](https://arxiv.org/abs/1204.3622)
